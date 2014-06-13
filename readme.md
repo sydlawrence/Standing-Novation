@@ -2,7 +2,7 @@
 Standing Novation
 
 ## Author
-Syd Lawrence ![@sydlawrence](http://twitter.com/sydlawrence) & ![@wemakeawesomesh](http://twitter.com/wemakeawesomesh)
+Syd Lawrence [@sydlawrence](http://twitter.com/sydlawrence) & [@wemakeawesomesh](http://twitter.com/wemakeawesomesh)
 
 ## Images & Videos
 ![Cover Image](images/cover.jpg?raw=true "Cover Image")
