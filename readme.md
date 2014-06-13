@@ -31,7 +31,7 @@ var SampleMode = new Mode(function(launchpad){
 [My midi-launchpad node module](https://github.com/sydlawrence/node-midi-launchpad "node midi-launchpad")
 
 ## Images & Videos
-![Cover Image](project_images/cover.jpg?raw=true "Cover Image")
-![Tetris GIF](project_images/example.gif?raw=true "Tetris GIF")
+![Cover Image](images/cover.jpg?raw=true "Cover Image")
+![Tetris GIF](images/example.gif?raw=true "Tetris GIF")
 
 http://www.youtube.com/watch?v=InBHd49HQ4w
